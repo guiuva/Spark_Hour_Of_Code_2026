@@ -3,7 +3,7 @@
 Organizado por el **Grupo Universitario de Informática (GUI)**.
 
 * **Ponente:** Manuel Méndez Calvo ([manuel.men.calvo@gmail.com](mailto:manuel.men.calvo@gmail.com))
-* **Fecha:** 19/11/2026
+* **Fecha:** 26/11/2026
 * **Duración estimada:** 1,5 horas
 * **Modalidad:** Taller práctico (con una breve introducción teórica) con portátil propio
 
