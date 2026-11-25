@@ -128,6 +128,14 @@ object MainSpark {
 
 ---
 
+### NOTA IMPORTANTE.
+
+Si da problemas el JDK 17, hacer lo siguiente:
+
+Ir al menú de run -> Current File -> Run With Parameters -> ModifyOptions -> add VM Options 
+
+Y pondremos lo siguiente --add-exports=java.base/sun.nio.ch=ALL-UNNAMED --add-opens=java.base/java.nio=ALL-UNNAMED
+
 ## Contacto y soporte
 
 Si te surge algún error de configuración o compatibilidad antes de la sesión, contacta con **Manuel Méndez Calvo** en [manuel.men.calvo@gmail.com](mailto:manuel.men.calvo@gmail.com).
